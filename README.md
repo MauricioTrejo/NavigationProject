@@ -8,7 +8,7 @@ Solving games with Reinforcement Learning.
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Files](#files)
-5- [Acknowledgements](#acknowledgements)
+5. [Acknowledgements](#acknowledgements)
 
 <a name="project"></a>
 ## Project
