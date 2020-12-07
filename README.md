@@ -6,7 +6,7 @@ Solving games with Reinforcement Learning.
 
 1. [Project](#project)
 2. [Requirements](#requirements)
-3. [Installation](#installation
+3. [Installation](#installation)
 4. [Files](#files)
 5- [Acknowledgements](#acknowledgements)
 
