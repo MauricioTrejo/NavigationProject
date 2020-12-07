@@ -8,7 +8,7 @@ Solving games with Reinforcement Learning.
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Files](#files)
-5. [Acknowledgements](#acknowledgements)
+5. [Acknowledgement](#acknowledgement)
 
 <a name="project"></a>
 ## Project
@@ -39,7 +39,7 @@ In order to run this project, is important to install the following:
 
 - [banana_collector](https://github.com/MauricioTrejo/NavigationProject/blob/master/banana_collector.gif) is a gif with the environment of the project.
 
-<a name="acknowledgements"></a>
-## Acknowledgements
+<a name="acknowledgement"></a>
+## Acknowledgement
 
 We want to thank [Unity](https://unity.com/) and [Udacity](https://www.udacity.com/) for the environment and training to solve this project.
