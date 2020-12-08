@@ -1,7 +1,8 @@
 # Navigation Project
 
-Collecting bananas with Reinforcement Learning, click en the gif below to watch the agent's video.
+Collecting bananas with Reinforcement Learning.
 
+Click en the gif below to watch the agent's video.
 [![IMAGE ALT TEXT](banana_collector.gif)](https://youtu.be/NL9fwW7XIn0)
 
 ## Index
