@@ -24,7 +24,7 @@ Each yellow banana gives a reward of +1 whereas each blue banana gives a reward 
 
 Click en the gif below to watch the agent's video.
 
-[![IMAGE ALT TEXT](banana_collector.gif)](https://youtu.be/NL9fwW7XIn0)
+[![IMAGE ALT TEXT](banana_collector.gif)](https://www.youtube.com/watch?v=OEiIlFVPHCc&feature=youtu.be)
 
 <a name="requirements"></a>
 ## Requirements
