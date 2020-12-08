@@ -1,6 +1,6 @@
 # Navigation Project
 
-Solving games with Reinforcement Learning.
+Collecting bananas with Reinforcement Learning.
 
 ## Index
 
@@ -20,14 +20,14 @@ The game consists of a square with bananas, some are colored yellow while others
 - Right
 - Left
 
-Each yellow banana gives a reward of +1 whereas each blue banana gives a reward of -1, the goal is to collect as many yellow bananas as possible while avoiding blue bananas.
+Each yellow banana gives a reward of +1 whereas each blue banana gives a reward of -1, the goal is to collect as many yellow bananas as possible while avoiding blue bananas. To solve the task at hand, we used Deep Q Learning, [here](https://github.com/MauricioTrejo/NavigationProject/blob/master/Report.ipynb) is a complete description of the process followed.
 
 <a name="requirements"></a>
 ## Requirements
 
 Packages needed for this project:
 
-tensorflow 1.7.1, [torch 0.4.0](https://pytorch.org/get-started/previous-versions/), 
+tensorflow 1.7.1 and [torch 0.4.0](https://pytorch.org/get-started/previous-versions/)
 
 <a name="installation"></a>
 ## Installation
@@ -39,6 +39,10 @@ In order to run this project is important to set a python environment, you can f
 <a name="files"></a>
 ## Files
 
+- [agent](https://github.com/MauricioTrejo/NavigationProject/blob/master/agent.py) is the py file containing the agent.
+- [model](https://github.com/MauricioTrejo/NavigationProject/blob/master/model.py) is the py file containing the neural network.
+- [weights](https://github.com/MauricioTrejo/NavigationProject/blob/master/weights.pth) contains the weights of the trained agent.
+- [Report](https://github.com/MauricioTrejo/NavigationProject/blob/master/Report.ipynb) contains the report of the agent training.
 - [data/Banana...](https://github.com/MauricioTrejo/NavigationProject/tree/master/data/Banana_Windows_x86_64) is Unity's environment.
 - [python/](https://github.com/MauricioTrejo/NavigationProject/tree/master/python) has necessary files for Unity's environment.
 - [banana_collector](https://github.com/MauricioTrejo/NavigationProject/blob/master/banana_collector.gif) is a gif with the environment of the project.
