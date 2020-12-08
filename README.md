@@ -25,6 +25,10 @@ Each yellow banana gives a reward of +1 whereas each blue banana gives a reward 
 <a name="requirements"></a>
 ## Requirements
 
+Packages needed for this project:
+
+tensorflow 1.7.1, [torch 0.4.0](https://pytorch.org/get-started/previous-versions/), 
+
 <a name="installation"></a>
 ## Installation
 
