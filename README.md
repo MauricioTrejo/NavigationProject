@@ -2,9 +2,6 @@
 
 Collecting bananas with Reinforcement Learning.
 
-Click en the gif below to watch the agent's video.
-[![IMAGE ALT TEXT](banana_collector.gif)](https://youtu.be/NL9fwW7XIn0)
-
 ## Index
 
 1. [Project](#project)
@@ -24,6 +21,10 @@ The game consists of a square with bananas, some are colored yellow while others
 - Left
 
 Each yellow banana gives a reward of +1 whereas each blue banana gives a reward of -1, the goal is to collect as many yellow bananas as possible while avoiding blue bananas. To solve the task at hand, we used Deep Q Learning, [here](https://github.com/MauricioTrejo/NavigationProject/blob/master/Report.ipynb) is a complete description of the process followed.
+
+Click en the gif below to watch the agent's video.
+
+[![IMAGE ALT TEXT](banana_collector.gif)](https://youtu.be/NL9fwW7XIn0)
 
 <a name="requirements"></a>
 ## Requirements
