@@ -32,15 +32,15 @@ tensorflow 1.7.1, [torch 0.4.0](https://pytorch.org/get-started/previous-version
 <a name="installation"></a>
 ## Installation
 
-In order to run this project, is important to install the following:
-
-- First is important to set a python environment, you can follow the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
-- Then, you have to download the unity environment, which can be done [here]() for Windows 64-bit. After decompressing, put the folder in `pi_navigation`.
-- Finally, open Navigation.ipynb located in `pi_navigation`.
+In order to run this project is important to set a python environment, you can follow the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). 
+  - There are 2 ways to install tensorflow 1.7.1 in your environment, one is with conda and the other is with pip (which is the one we recommend since conda installer has problems with this version of tensorflow)
+  - Also, is important to note that the installation of torch has to be from [here](https://pytorch.org/get-started/previous-versions/), otherwise, neither pip nor conda will find the version.
 
 <a name="files"></a>
 ## Files
 
+- [data/Banana...](https://github.com/MauricioTrejo/NavigationProject/tree/master/data/Banana_Windows_x86_64) is Unity's environment.
+- [python/](https://github.com/MauricioTrejo/NavigationProject/tree/master/python) has necessary files for Unity's environment.
 - [banana_collector](https://github.com/MauricioTrejo/NavigationProject/blob/master/banana_collector.gif) is a gif with the environment of the project.
 
 <a name="acknowledgement"></a>
